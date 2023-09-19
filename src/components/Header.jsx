@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <>
       <div className="header-container">
-        <div className="logo">FASHIONHUT</div>
+        <div className="logo">CryptoOasis</div>
         <div className="menu">
           <div className="menu-links">
             <a href="/">App</a>
